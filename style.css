@@ -1,0 +1,26 @@
+.colorBox{
+    height: 200px;
+    width: 10px;
+}
+
+.col{
+    margin: 50px 0;
+    padding: 0;
+    max-width:10px;
+}
+
+.bottomBox div{
+    margin-top: 50px;
+    width: 1100px;
+    height: 800px;
+    /* background: rgb(192, 27, 27); */
+}
+
+.bottomBox{
+    display: none;
+}
+
+.bottomBox.active{
+    display: block;
+}
+
